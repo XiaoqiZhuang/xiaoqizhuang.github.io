@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 1st year Ph.D. student at the University of Sheffield, supervised by [Prof. Jungong Han](https://jungonghan.github.io/)
+I am a 1st year Ph.D. student at the University of Sheffield, supervised by [Prof. Jungong Han](https://jungonghan.github.io/).
 
 ## Research Interests
 
