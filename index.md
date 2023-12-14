@@ -14,6 +14,3 @@ I am a 1st year Ph.D. student at the University of Sheffield, supervised by [Pro
 
 - **[Sep. 2023]** I started my PhD!!! Let's see what I can do :）
 
-# {% include_relative _includes/publications.md %}
-
-# {% include_relative _includes/services.md %}
